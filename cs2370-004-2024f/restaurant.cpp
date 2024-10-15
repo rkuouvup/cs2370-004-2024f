@@ -1,12 +1,12 @@
 #include "restaurant.h"
 
-int Restaurant::nextid = 101;
+/*int Restaurant::nextid = 101;*/
 
 /*Restaurant::Restaurant() : name("no name"), rating(-1), id(nextid) {
   nextid++;
 }*/
 
-Restaurant::Restaurant(string name, int rating) : id(nextid) {
+/*Restaurant::Restaurant(string name, int rating) : id(nextid) {
   this->name = name;
   this->rating = rating;
   nextid++;
@@ -29,4 +29,4 @@ int Restaurant::GetNextId() {
 
 void Restaurant::Print() {
   cout << id << ": "<< name << "--" << rating << endl;
-}
+}*/
