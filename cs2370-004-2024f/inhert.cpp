@@ -42,13 +42,13 @@ void DriveTo(Business* bptr) {
 }
 
 
-int main() {
+/*int main() {
     vector<Business*> v;
     
-    /*Business *vptr = new Business;
-    vptr->SetName("my business");
-    vptr->SetAddress("my address");
-    v.push_back(vptr);*/
+    //Business *vptr = new Business;
+    //vptr->SetName("my business");
+    //vptr->SetAddress("my address");
+    //v.push_back(vptr);
     
     Restaurant *rptr1 = new Restaurant;
     rptr1->SetName("Give Guys");
@@ -69,17 +69,17 @@ int main() {
     
     
     
-    /*Business b;
-    Restaurant r1;
-    b.SetName("my business");
-    b.SetAddress("my address");
+    //Business b;
+    //Restaurant r1;
+    //b.SetName("my business");
+    //b.SetAddress("my address");
     
-    r1.SetName("Give Guys");
-    r1.SetAddress("University Place");
-    r1.SetRating(5);
+    //r1.SetName("Give Guys");
+    //r1.SetAddress("University Place");
+    //r1.SetRating(5);
     
-    DriveTo(&b);
-    DriveTo(&r1);*/
+    //DriveTo(&b);
+    //DriveTo(&r1);
     
     //Foo f;
     //DriveTo(&f);
@@ -89,5 +89,5 @@ int main() {
     //r1.PrintDescription();
     
     return 0;
-}
+}*/
 
