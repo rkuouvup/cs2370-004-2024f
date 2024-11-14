@@ -14,6 +14,7 @@
 		575D519C2CBEDF9C0070198C /* LinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 575D519B2CBEDF9C0070198C /* LinkedList.cpp */; };
 		57825EB62CD3D64D00C090A6 /* inhert.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 57825EB52CD3D64500C090A6 /* inhert.cpp */; };
 		57825EED2CE6514700C090A6 /* badge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 57825EEC2CE6513E00C090A6 /* badge.cpp */; };
+		57825EF12CECE91400C090A6 /* template.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 57825EF02CECE90E00C090A6 /* template.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,7 @@
 		575D519B2CBEDF9C0070198C /* LinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LinkedList.cpp; sourceTree = "<group>"; };
 		57825EB52CD3D64500C090A6 /* inhert.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = inhert.cpp; sourceTree = "<group>"; };
 		57825EEC2CE6513E00C090A6 /* badge.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = badge.cpp; sourceTree = "<group>"; };
+		57825EF02CECE90E00C090A6 /* template.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = template.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			children = (
 				57825EB52CD3D64500C090A6 /* inhert.cpp */,
 				57825EEC2CE6513E00C090A6 /* badge.cpp */,
+				57825EF02CECE90E00C090A6 /* template.cpp */,
 				575D51712CBEDC030070198C /* restaurant_main.cpp */,
 				575D51742CBEDC030070198C /* restaurant.cpp */,
 				575D51722CBEDC030070198C /* restaurant.h */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57825EED2CE6514700C090A6 /* badge.cpp in Sources */,
+				57825EF12CECE91400C090A6 /* template.cpp in Sources */,
 				575D51772CBEDC030070198C /* restaurant_main.cpp in Sources */,
 				575D51792CBEDC030070198C /* restaurant.cpp in Sources */,
 				575D519C2CBEDF9C0070198C /* LinkedList.cpp in Sources */,

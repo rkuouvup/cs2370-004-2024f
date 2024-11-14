@@ -55,7 +55,7 @@ public:
 };
 
 
-int main() {
+/*int main() {
     vector<Badge> badge_list;
     vector<vector<string>> info;
     info.push_back({"Beginner", "Green", "Rectangle"});
@@ -83,4 +83,4 @@ int main() {
         e.PrintInfo();
     
     return 0;
-}
+}*/
